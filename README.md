@@ -66,18 +66,18 @@ There is a lot of ressources, the whole pack have a size of 8.1Go.
 5. Select the .qc in the decompiled folder of 3d models you get with Crowbar.
 
 ### Second Step
-1. Set the `Editor Type` to `Dope Sheet`.
+1. Set the `Editor Type` to `Dope Sheet`.(Screenshot 1)
+2. Set the Editor `Mode` to `Action Editor`.(Screenshot 2)
+3. Prepare a spreadsheet to save lenght of all animation.(Screenshot 3)
 ![dope sheet editor](https://cloud.githubusercontent.com/assets/9381120/26372608/cf668cc0-3ffe-11e7-8b4f-7d09deeb0139.PNG)
-2. Set the Editor `Mode` to `Action Editor`.
 ![editor mode](https://cloud.githubusercontent.com/assets/9381120/26372674/f911a4b0-3ffe-11e7-9578-4b7b74e81d8c.PNG)
-3. Prepare a spreadsheet to save lenght of all animation.
 ![animation timer](https://cloud.githubusercontent.com/assets/9381120/26372676/f9136156-3ffe-11e7-9ecc-026369645884.PNG)
 
 ### Third Step
-1. Select all bones (shortcut `a` when hover bones with mouse).
-![bone selection](https://cloud.githubusercontent.com/assets/9381120/26372675/f9135c38-3ffe-11e7-8b5e-1d61f00792a7.PNG)
+1. Select all bones (shortcut `a` when hover bones with mouse). (Screenshot 1)
 2. Add in the linked animation all animation you want, in the correct order (select all keyframe with shortcut `a` when mouse hover the Action Editor).
 3. Export the model in `.b3d` (Files>Export>B3D).
+![bone selection](https://cloud.githubusercontent.com/assets/9381120/26372675/f9135c38-3ffe-11e7-8b5e-1d61f00792a7.PNG)
 
 # You Win !
 ![victory](https://cloud.githubusercontent.com/assets/9381120/26372677/f9139b8a-3ffe-11e7-8c9d-3fe81162a6f2.PNG)
